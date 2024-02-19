@@ -6,7 +6,7 @@ def countdown(number):
     while x > 0:
         print(f"{x} SECOND(S)!")
         x -= 1
-    print("CAN YOU BE MY VALENTINE!")
+    print("HAPPY NEW YEAR!!")
 
 # countdown(10)
 
